@@ -1,0 +1,21 @@
+.banner {
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../../images/formule-1-banniere.png);
+    color: white;
+    padding: 130px 0;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+
+.banner h1 {
+    font-size: 52px;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+
+.banner h2 {
+    font-size: 22px;
+    font-weight: lighter;
+    opacity: 0.8;
+    margin-bottom: 40px;
+}
